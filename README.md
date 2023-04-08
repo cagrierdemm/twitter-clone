@@ -5,7 +5,7 @@
 
 ### Responsive Preview:
 
-![Preview](assets/preview.mp4)
+![Preview](https://github.com/cagrierdemm/twitter-clone/blob/main/assets/preview.mp4)
 
 ### Web Preview:
 
