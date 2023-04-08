@@ -3,6 +3,10 @@
 # Sources
  - [Bootstrap v5.3](https://getbootstrap.com/)
 
+### Responsive Preview:
+
+![Preview](assets/preview.mp4)
+
 ### Web Preview:
 
 ![Preview](assets/preview1.jpg)
