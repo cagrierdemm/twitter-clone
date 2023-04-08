@@ -1,5 +1,7 @@
 #  Twitter Clone | Bootstrap
 
+This project is a clone of [twitter.com](https://twitter.com/) home page with Bootstrap v5.3
+
 # Sources
  - [Bootstrap v5.3](https://getbootstrap.com/)
 
