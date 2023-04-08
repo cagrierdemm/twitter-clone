@@ -3,20 +3,23 @@
 # Sources
  - [Bootstrap v5.3](https://getbootstrap.com/)
 
+# Preview
+
 ### Responsive Preview:
 
-![Preview](https://github.com/cagrierdemm/twitter-clone/blob/main/assets/preview.mp4)
+https://user-images.githubusercontent.com/86229269/230731008-0976d95b-1de9-4b7f-addc-700237972fb5.mp4
 
-### Web Preview:
+
+### Web:
 
 ![Preview](assets/preview1.jpg)
 
-### iPad Air Preview:
+### Tablet:
 
 ![Preview](assets/preview2.jpg)
 
 
-### Mobile Preview:
+### Mobile:
 
 ![Preview](assets/preview3.jpg)
 
