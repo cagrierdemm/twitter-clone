@@ -43,6 +43,12 @@ ul>li>a{
     font-size: 17px;
 }
 
+.btn3{
+    border-radius: 75px;
+    padding: 5px;
+    font-size: 17px;
+}
+
 
 .text-gray{
     color:rgb(113, 118, 123);
@@ -62,6 +68,7 @@ ul>li>a{
     border-radius: 25px;
 }
 
+
 .smallfont{
     font-size: 13px;
 }
@@ -77,11 +84,49 @@ ul>li>a{
 }
 
 input#search{
-    background-image: url(assets/svgexport-33.png);
+    background-image: url(../assets/svgexport-33.png);
     background-position: left;
     background-position: 20px;
     background-repeat: no-repeat;
     background-size: 20px;
     text-indent: 45px;
 
+}
+
+.messages:hover{
+    cursor: pointer;
+}
+
+.messages-button:hover{
+    background-color: rgb(26, 26, 26);
+    border-radius: 50%;
+}
+
+.dropdown-menu{
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 0 2px 15px 0 rgba(255, 255, 255, 0.05), 0 2px 15px 0 rgba(255, 255, 255, 0.05);
+}
+
+.dropdown-item{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#tweetwh{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+}
+
+#tweetwh:active{
+    border: 0;
+}
+
+.pp{
+    width: 48px;
+    height: 48px;
 }
