@@ -1,0 +1,87 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;            
+}
+
+.darkmode{
+    background-color: #000;
+}
+
+nav>ul>li>a:hover{
+    background-color: rgb(26, 26, 26);
+    border-radius: 25px;
+}
+
+nav>a:hover{
+    background-color: rgb(26, 26, 26);
+    border-radius: 25px;
+}
+
+.bg-blue{
+    background-color: rgb(29, 155, 240);
+}
+
+.bg-transparent{
+    color: black;
+}
+
+ul>li>a{
+    text-decoration: none ;
+    color: white;
+}
+
+.btn1{
+    border-radius: 25px;
+    padding: 12px;
+    font-size: 17px;
+}
+
+.btn2{
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 17px;
+}
+
+
+.text-gray{
+    color:rgb(113, 118, 123);
+}
+
+.mid-up{
+    font-size: 17px;
+}
+
+.dropup:hover{
+    background-color: rgb(26, 26, 26);
+    border-radius: 25px;
+}
+
+.bluehover:hover{
+    background-color: rgba(29, 155, 240,0.1);
+    border-radius: 25px;
+}
+
+.smallfont{
+    font-size: 13px;
+}
+
+.mediumfont{
+    font-size: 16px;
+}
+
+.bg-gray{
+    background-color: rgb(26, 26, 26);
+    border-radius: 25px;
+    
+}
+
+input#search{
+    background-image: url(assets/svgexport-33.png);
+    background-position: left;
+    background-position: 20px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    text-indent: 45px;
+
+}
